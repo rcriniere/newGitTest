@@ -1,1 +1,2 @@
- * session 3
+ * session 3 on 3/31 Sunday
+ 
