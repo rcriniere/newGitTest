@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Session 3 
 ## *First steps*
 
@@ -11,3 +12,6 @@ cd c:temper\newgittest
 ### **Create a new file**
 new-item -name rc-session.md -Type File
 
+=======
+# sandy stanley was here
+>>>>>>> Stashed changes
