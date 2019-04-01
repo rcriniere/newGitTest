@@ -1,2 +1,3 @@
- * session 3 on 3/31 Sunday
- 
+ * session 3
+
+ ###Robin adding a change to this file after creating a new branch
