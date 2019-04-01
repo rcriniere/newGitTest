@@ -13,5 +13,5 @@ cd c:temper\newgittest
 new-item -name rc-session.md -Type File
 
 =======
-# sandy stanley was here
+# no she wasn't
 >>>>>>> Stashed changes
